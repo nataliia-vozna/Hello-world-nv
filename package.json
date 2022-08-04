@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-nv",
+  "version": "1.0.0",
+  "description": "My first repository on GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliia-vozna/Hello-world-nv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliia-vozna/Hello-world-nv/issues"
+  },
+  "homepage": "https://github.com/nataliia-vozna/Hello-world-nv#readme",
+  "dependencies": {
+    "playwright": "^1.24.2"
+  }
+}
