@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nataliia-vozna/Hello-world-nv#readme",
   "dependencies": {
+    "lucky": "^1.1.0",
     "playwright": "^1.24.2"
   }
 }
